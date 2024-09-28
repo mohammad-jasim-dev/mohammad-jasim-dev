@@ -7,15 +7,16 @@
   <img src="https://komarev.com/ghpvc/?username=mohammad-jasim&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-jasim" />
 </p>
 
-I'm a highly skilled Senior Full Stack Engineer with over 8 years of experience in building robust web applications. Passionate about solving complex challenges with clean, scalable code, I specialize in back-end technologies and cloud platforms, with expertise across a range of front-end and database systems.
+I'm a highly skilled Senior Full Stack Engineer with over 8 years of experience in building robust web applications. Passionate about solving complex challenges with clean, scalable code, I specialize in back-end technologies and cloud platforms, with expertise across a range of front-end, back-end, and AI-based systems.
 
 - 🌱 **Currently working at:** Systems Limited
 - 💻 **Projects and contributions:** [github.com/mohammad-jasim-dev](https://github.com/mohammad-jasim-dev)
 - 💬 **Technical specialties:**
-  - **Back-end:** Python | Django | Flask | FastAPI
+  - **Back-end:** Python | Django | Flask | FastAPI | Node.js | Express.js | Generative AI | Custom GPT models | Chatbots | REST APIs | GraphQL
   - **Front-end:** ReactJS | Next.js | Vue.js | Svelte | HTML | CSS | JavaScript (ES6+) | TypeScript | TailwindCSS | jQuery | Ajax
   - **Cloud Platforms:** AWS | GCP | Azure | DigitalOcean | PythonAnywhere | Docker
   - **Databases:** PostgreSQL | MariaDB | MySQL | SQLite | MongoDB
+  - **AI Technologies:** OpenAI GPT | Hugging Face | LangChain | TensorFlow | PyTorch
   - **Development Methodologies:** Agile | Project Management
 
 📫 **Contact me at:** [mohammadjasimfarrukh@gmail.com](mailto:mohammadjasimfarrukh@gmail.com)
